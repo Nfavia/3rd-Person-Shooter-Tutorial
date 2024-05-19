@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+PackagedBuilds/3rdPersonShooter_V1.0.rar
+/PackagedBuilds
